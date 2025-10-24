@@ -1,0 +1,206 @@
+# Configuration file for Agricultural Data Scrapers
+# This file contains all configuration settings for the scraping system
+
+# Global settings
+global:
+  project_name: "USA Coast of Production"
+  version: "2.0.0"
+  description: "Agricultural crop budget data collection system"
+  
+# Logging configuration
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/scraper.log"
+  max_file_size: "10MB"
+  backup_count: 5
+
+# HTTP request settings
+requests:
+  timeout: 15
+  retries: 3
+  delay_min: 1.0
+  delay_max: 3.0
+  user_agents:
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    - "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0"
+    - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/121.0"
+
+# Data processing settings
+data:
+  output_dir: "data"
+  validate_data: true
+  required_columns:
+    - "Item"
+    - "Value"
+    - "Unit"
+    - "Commodity"
+    - "Location"
+    - "Year"
+    - "Source"
+  data_types:
+    Item: "string"
+    Value: "float64"
+    Unit: "string"
+    Commodity: "string"
+    Location: "string"
+    Year: "string"
+    Source: "string"
+
+# Database settings (for future SQLite integration)
+database:
+  enabled: false
+  path: "data/agricultural_data.db"
+  tables:
+    raw_data: "raw_scraped_data"
+    processed_data: "processed_data"
+    metadata: "scraping_metadata"
+
+# State-specific configurations
+states:
+  usda:
+    name: "USDA"
+    url: "https://www.ers.usda.gov/data-products/commodity-costs-and-returns/"
+    commodities: ["corn", "soybeans"]
+    data_types: ["recent", "historical", "forecast"]
+    output_file: "usda_data.xlsx"
+    enabled: true
+    
+  iowa:
+    name: "Iowa State University"
+    url: "https://www.extension.iastate.edu/agdm/crops/html/a1-20.html"
+    commodities: ["corn", "soybeans"]
+    data_types: ["budget"]
+    output_file: "iowa_data.xlsx"
+    enabled: true
+    pdf_extraction:
+      pages: [2, 3, 4, 5]
+      table_areas: ["10,700,490,660"]
+      extract_area: ["50,650,600,90"]
+    
+  ohio:
+    name: "Ohio State University"
+    url: "https://farmoffice.osu.edu/farm-management/enterprise-budgets"
+    commodities: ["corn", "soybeans"]
+    data_types: ["budget"]
+    output_file: "ohio_data.csv"
+    enabled: true
+    excel_settings:
+      sheet_name: "Quick Stats"
+      usecols: "A,G,I"
+      nrows: 25
+      skiprows: 2
+    
+  north_dakota:
+    name: "North Dakota State University"
+    url: "https://www.ndsu.edu/agriculture/ag-hub/ag-topics/farm-management/crop-economics/projected-crop-budgets"
+    commodities: ["corn", "soybeans"]
+    data_types: ["budget"]
+    output_file: "north_dakota_data.xlsx"
+    enabled: true
+    min_year: 2006
+    excel_settings:
+      usecols: "A:B"
+      nrows: 29
+    
+  indiana:
+    name: "Purdue University"
+    url: "https://ag.purdue.edu/commercialag/home/"
+    commodities: ["corn", "soybeans"]
+    data_types: ["budget"]
+    output_file: "indiana_data.xlsx"
+    enabled: true
+    
+  mississippi:
+    name: "Mississippi State University"
+    url: "https://www.agecon.msstate.edu/"
+    commodities: ["corn", "soybeans"]
+    data_types: ["budget"]
+    output_file: "mississippi_data.csv"
+    enabled: true
+    
+  tennessee:
+    name: "University of Tennessee"
+    url: "https://economics.ag.utk.edu/"
+    commodities: ["corn", "soybeans"]
+    data_types: ["budget"]
+    output_file: "tennessee_data.xlsx"
+    enabled: true
+
+# Commodity definitions
+commodities:
+  corn:
+    aliases: ["corn", "maize", "corn grain", "corn silage"]
+    units:
+      yield: "bu/acre"
+      price: "$/bu"
+      cost: "$/acre"
+  soybeans:
+    aliases: ["soybeans", "soy", "soybean"]
+    units:
+      yield: "bu/acre"
+      price: "$/bu"
+      cost: "$/acre"
+  wheat:
+    aliases: ["wheat", "winter wheat", "spring wheat"]
+    units:
+      yield: "bu/acre"
+      price: "$/bu"
+      cost: "$/acre"
+
+# Data validation rules
+validation:
+  year_pattern: "^\\d{4}/\\d{4}$"
+  valid_commodities: ["Corn", "Soybeans", "Wheat", "Cotton"]
+  valid_units:
+    - "\\$/acre"
+    - "bu/acre"
+    - "\\$/bu"
+    - "\\$/ton"
+    - "\\$/lb"
+  min_year: 1975
+  max_year: 2030
+  value_ranges:
+    yield_min: 0
+    yield_max: 500
+    price_min: 0
+    price_max: 50
+    cost_min: 0
+    cost_max: 2000
+
+# Monitoring and alerting
+monitoring:
+  enabled: true
+  health_check_interval: 3600  # seconds
+  alert_on_failure: true
+  alert_on_data_quality_issues: true
+  notification_methods:
+    - "log"
+    # - "email"  # Future implementation
+    # - "slack"  # Future implementation
+
+# API settings (for future FastAPI implementation)
+api:
+  enabled: false
+  host: "localhost"
+  port: 8000
+  title: "Agricultural Data API"
+  description: "REST API for agricultural crop budget data"
+  version: "1.0.0"
+
+# Performance settings
+performance:
+  parallel_scraping: true
+  max_concurrent_requests: 5
+  cache_enabled: true
+  cache_ttl: 3600  # seconds
+  memory_limit: "2GB"
+
+# Security settings
+security:
+  respect_robots_txt: true
+  rate_limit_per_domain: 10  # requests per minute
+  user_agent_rotation: true
+  ssl_verify: true

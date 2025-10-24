@@ -1,0 +1,475 @@
+Item,Soil type,value,Location,Source,Commodity,Year,Unit
+Receipts,Low,155.0,Ohio,Farmoffice,Corn,2012/2013,bu/acre
+Corn Price,Low,829.25,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Seed Cost,Low,100.0,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Nitrogen (NH3),Low,91.8780487804878,Ohio,Farmoffice,Corn,2012/2013,$/acre
+P205   (MAP),Low,38.04951923076923,Ohio,Farmoffice,Corn,2012/2013,$/acre
+K20   (Potash),Low,21.97125,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Chemicals,Low,44.28,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Labor and Management,Low,82.99406,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Machinery Cost,Low,107.455515625,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Land Rent,Low,150.0,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Return to Variable Costs,Low,435.06412934556397,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Return to Land,Low,244.6145537205639,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Price,Low,5.35,Ohio,Farmoffice,Corn,2012/2013,$/bushel
+Receipts,High,192.0,Ohio,Farmoffice,Corn,2012/2013,bu/acre
+Corn Price,High,1027.1999999999998,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Seed Cost,High,106.25,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Nitrogen (NH3),High,107.79268292682927,Ohio,Farmoffice,Corn,2012/2013,$/acre
+P205   (MAP),High,47.132307692307684,Ohio,Farmoffice,Corn,2012/2013,$/acre
+K20   (Potash),High,27.216000000000005,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Chemicals,High,44.28,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Labor and Management,High,93.11392000000001,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Machinery Cost,High,107.455515625,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Land Rent,High,200.0,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Return to Variable Costs,High,594.6044306964081,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Return to Land,High,394.03499507140816,Ohio,Farmoffice,Corn,2012/2013,$/acre
+Price,High,5.35,Ohio,Farmoffice,Corn,2012/2013,$/bushel
+Receipts,Low,48.0,Ohio,Farmoffice,Soybean,2012/2013,bu/acre
+Soybean Price,Low,651.84,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Seed Cost,Low,64.8,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+P205   (MAP),Low,25.47692307692308,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+K20   (Potash),Low,35.279999999999994,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Chemicals,Low,33.55,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Labor and Management,Low,60.623560000000005,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Machinery Cost,Low,85.09805468750001,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Land Rent,Low,150.0,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Return to Variable Costs,Low,442.6443612197485,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Return to Land,Low,296.9227465322484,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Price,Low,13.58,Ohio,Farmoffice,Soybean,2012/2013,$/bushel
+Receipts,High,60.0,Ohio,Farmoffice,Soybean,2012/2013,bu/acre
+Soybean Price,High,814.8,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Seed Cost,High,64.8,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+P205   (MAP),High,31.846153846153847,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+K20   (Potash),High,44.1,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Chemicals,High,33.55,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Labor and Management,High,68.99392,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Machinery Cost,High,85.09805468750001,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Land Rent,High,200.0,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Return to Variable Costs,High,594.0766535274406,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Return to Land,High,439.98467883994056,Ohio,Farmoffice,Soybean,2012/2013,$/acre
+Price,High,13.58,Ohio,Farmoffice,Soybean,2012/2013,$/bushel
+Receipts,Low,67.0,Ohio,Farmoffice,Wheat,2012/2013,bu/acre
+Wheat Price,Low,425.45,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Seed Cost,Low,40.6,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+N (UAN),Low,28.00471153846154,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+P205   (MAP),Low,28.00471153846154,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+K20   (Potash),Low,23.51475,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Chemicals,Low,21.34,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Labor and Management,Low,48.2725,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Machinery Cost,Low,99.08061979166668,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Land Rent,Low,150.0,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Return to Variable Costs,Low,217.41682230635567,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Return to Land,Low,70.063702514689,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Price,Low,6.35,Ohio,Farmoffice,Wheat,2012/2013,$/bushel
+Receipts,High,82.0,Ohio,Farmoffice,Wheat,2012/2013,bu/acre
+Wheat Price,High,520.6999999999999,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Seed Cost,High,40.6,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+N (UAN),High,68.57142857142857,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+P205   (MAP),High,34.27442307692308,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+K20   (Potash),High,26.428500000000003,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Chemicals,High,21.34,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Labor and Management,High,53.035,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Machinery Cost,High,99.08061979166668,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Land Rent,High,200.0,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Return to Variable Costs,High,288.55335563968896,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Return to Land,High,136.43773584802227,Ohio,Farmoffice,Wheat,2012/2013,$/acre
+Price,High,6.35,Ohio,Farmoffice,Wheat,2012/2013,$/bushel
+Receipts,Low,155.0,Ohio,Farmoffice,Corn 2011 - May,24/25,bu/acre
+Corn Price,Low,992.0,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Seed Cost,Low,92.0,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Nitrogen (NH3),Low,80.44512195121952,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+P205   (MAP),Low,39.97956730769231,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+K20   (Potash),Low,20.925,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Chemicals,Low,35.0,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Labor and Management,Low,91.13156000000001,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Return to Variable Costs,Low,636.223700044429,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Return to Land,Low,453.000568169429,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+"Return to Land, Labor, Management",Low,544.132128169429,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Return Above Total Costs,Low,323.000568169429,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Price,Low,6.4,Ohio,Farmoffice,Corn 2011 - May,24/25,$/bushel
+Receipts,High,192.0,Ohio,Farmoffice,Corn 2011 - May,24/25,bu/acre
+Corn Price,High,1228.8000000000002,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Seed Cost,High,97.75,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Nitrogen (NH3),High,90.0030487804878,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+P205   (MAP),High,49.523076923076914,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+K20   (Potash),High,25.92,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Chemicals,High,35.0,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Labor and Management,High,103.19392000000002,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Return to Variable Costs,High,839.5353938797691,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Return to Land,High,644.2499020047691,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+"Return to Land, Labor, Management",High,793.2797837569057,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Return Above Total Costs,High,479.24990200476907,Ohio,Farmoffice,Corn 2011 - May,24/25,$/acre
+Price,High,6.4,Ohio,Farmoffice,Corn 2011 - May,24/25,$/bushel
+Receipts,Low,122.0,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),bu/acre
+Corn Price,Low,780.8000000000001,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Seed Cost,Low,92.0,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Nitrogen (NH3),Low,80.44512195121952,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+P205   (MAP),Low,31.46778846153846,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+K20   (Potash),Low,16.470000000000002,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Chemicals,Low,35.0,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Labor and Management,Low,80.57156,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Return to Variable Costs,Low,406.28098281686505,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Return to Land,Low,233.61785094186507,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+"Return to Land, Labor, Management",Low,314.18941094186505,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Return Above Total Costs,Low,103.61785094186507,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Price,Low,6.4,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/bushel
+Receipts,High,152.0,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),bu/acre
+Corn Price,High,972.8000000000001,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Seed Cost,High,97.75,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Nitrogen (NH3),High,90.0030487804878,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+P205   (MAP),High,39.20576923076923,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+K20   (Potash),High,20.520000000000003,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Chemicals,High,35.0,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Labor and Management,High,90.39392000000001,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Return to Variable Costs,High,559.5805851190851,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Return to Land,High,377.0950932440851,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+"Return to Land, Labor, Management",High,499.80723455818776,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Return Above Total Costs,High,212.0950932440851,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/acre
+Price,High,6.4,Ohio,Farmoffice,Corn 2011 - Late Planning,(May28-June5),$/bushel
+Receipts,Low,48.0,Ohio,Farmoffice,Soybean,2011/2012,bu/acre
+Soybean Price,Low,626.4000000000001,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Seed Cost,Low,58.68,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+P205   (MAP),Low,26.769230769230774,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+K20   (Potash),Low,33.599999999999994,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Chemicals,Low,30.0,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Labor and Management,Low,59.351560000000006,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Return to Variable Costs,Low,440.8454601971299,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Return to Land,Low,309.6678751971299,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+"Return to Land, Labor, Management",Low,369.0194351971299,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Return Above Total Costs,Low,179.6678751971299,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Price,Low,13.05,Ohio,Farmoffice,Soybean,2011/2012,$/bushel
+Receipts,High,60.0,Ohio,Farmoffice,Soybean,2011/2012,bu/acre
+Soybean Price,High,783.0,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Seed Cost,High,58.68,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+P205   (MAP),High,33.46153846153846,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+K20   (Potash),High,42.0,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Chemicals,High,30.0,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Labor and Management,High,67.40392,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Return to Variable Costs,High,586.0542499407195,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Return to Land,High,446.82430494071957,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+"Return to Land, Labor, Management",High,584.0940198125146,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Return Above Total Costs,High,281.82430494071957,Ohio,Farmoffice,Soybean,2011/2012,$/acre
+Price,High,13.05,Ohio,Farmoffice,Soybean,2011/2012,$/bushel
+Receipts,Low,43.2,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),bu/acre
+Soybean Price,Low,563.7600000000001,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Seed Cost,Low,58.68,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+P205   (MAP),Low,24.092307692307692,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+K20   (Potash),Low,30.24,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Chemicals,Low,30.0,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Labor and Management,Low,56.21956000000001,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Return to Variable Costs,Low,384.54082429969407,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Return to Land,Low,256.49523929969405,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+"Return to Land, Labor, Management",Low,312.71479929969405,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Return Above Total Costs,Low,126.49523929969405,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Price,Low,13.05,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/bushel
+Receipts,High,54.0,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),bu/acre
+Soybean Price,High,704.7,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Seed Cost,High,58.68,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+P205   (MAP),High,30.115384615384617,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+K20   (Potash),High,37.8,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Chemicals,High,30.0,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Labor and Management,High,63.48892,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Return to Variable Costs,High,515.6734550689248,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Return to Land,High,380.35851006892483,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+"Return to Land, Labor, Management",High,506.67514545354015,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Return Above Total Costs,High,215.35851006892483,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/acre
+Price,High,13.05,Ohio,Farmoffice,Soybean 2011-Late Planning,(May28-June5),$/bushel
+Receipts,Low,67.0,Ohio,Farmoffice,Wheat,2011/2012,bu/acre
+Wheat Price,Low,432.82,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Seed Cost,Low,32.9,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+N (UAN),Low,27.598846153846154,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+P205   (MAP),Low,27.598846153846154,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+K20   (Potash),Low,18.6625,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Chemicals,Low,13.0,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Return to Land,Low,155.61251557524906,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+"Return to Land, Labor, Management",Low,204.25351557524905,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Return Above Total Costs,Low,25.612515575249063,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Price,Low,6.46,Ohio,Farmoffice,Wheat,2011/2012,$/bushel
+Receipts,High,82.0,Ohio,Farmoffice,Wheat,2011/2012,bu/acre
+Wheat Price,High,529.72,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Seed Cost,High,32.9,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+N (UAN),High,60.0,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+P205   (MAP),High,33.77769230769231,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+K20   (Potash),High,20.975,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Chemicals,High,13.0,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Return to Land,High,226.28301557524918,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+"Return to Land, Labor, Management",High,279.76901557524917,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Return Above Total Costs,High,61.28301557524918,Ohio,Farmoffice,Wheat,2011/2012,$/acre
+Price,High,6.46,Ohio,Farmoffice,Wheat,2011/2012,$/bushel
+Receipts,Low,155.0,Ohio,Farmoffice,Corn,2010/2011,bu/acre
+Corn Price,Low,542.5,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Seed Cost,Low,90.0,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Nitrogen (NH3),Low,47.0609756097561,Ohio,Farmoffice,Corn,2010/2011,$/acre
+P205   (MAP),Low,24.814903846153847,Ohio,Farmoffice,Corn,2010/2011,$/acre
+K20   (Potash),Low,14.821875000000002,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Chemicals,Low,35.0,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Labor and Management,Low,68.65656,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Return to Land,Low,104.08375586817328,Ohio,Farmoffice,Corn,2010/2011,$/acre
+"Return to Land, Labor, Management",Low,172.7403158681733,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Return Above Total Costs,Low,-25.916244131826716,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Price,Low,3.5,Ohio,Farmoffice,Corn,2010/2011,$/bushel
+Receipts,High,192.0,Ohio,Farmoffice,Corn,2010/2011,bu/acre
+Corn Price,High,672.0,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Seed Cost,High,95.625,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Nitrogen (NH3),High,52.274390243902445,Ohio,Farmoffice,Corn,2010/2011,$/acre
+P205   (MAP),High,30.738461538461536,Ohio,Farmoffice,Corn,2010/2011,$/acre
+K20   (Potash),High,18.360000000000003,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Chemicals,High,35.0,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Labor and Management,High,75.35392,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Return to Land,High,203.50466180196008,Ohio,Farmoffice,Corn,2010/2011,$/acre
+"Return to Land, Labor, Management",High,302.6795439814473,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Return Above Total Costs,High,38.50466180196008,Ohio,Farmoffice,Corn,2010/2011,$/acre
+Price,High,3.5,Ohio,Farmoffice,Corn,2010/2011,$/bushel
+Receipts,Low,155.0,Ohio,Farmoffice,Corn with Storage,2010/2011,bu/acre
+Corn Price,Low,542.5,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Seed Cost,Low,90.0,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Nitrogen (NH3),Low,47.0609756097561,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+P205   (MAP),Low,24.814903846153847,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+K20   (Potash),Low,14.821875000000002,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Chemicals,Low,35.0,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Labor and Management,Low,68.65656,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Return to Land,Low,77.17833920150679,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+"Return to Land, Labor, Management",Low,145.8348992015068,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Return Above Total Costs,Low,-52.82166079849321,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Price,Low,3.5,Ohio,Farmoffice,Corn with Storage,2010/2011,$/bushel
+Receipts,High,192.0,Ohio,Farmoffice,Corn with Storage,2010/2011,bu/acre
+Corn Price,High,672.0,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Seed Cost,High,95.625,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Nitrogen (NH3),High,52.274390243902445,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+P205   (MAP),High,30.738461538461536,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+K20   (Potash),High,18.360000000000003,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Chemicals,High,35.0,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Labor and Management,High,75.35392,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Return to Land,High,170.17666180196,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+"Return to Land, Labor, Management",High,267.9628773147806,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Return Above Total Costs,High,5.176661801959995,Ohio,Farmoffice,Corn with Storage,2010/2011,$/acre
+Price,High,3.5,Ohio,Farmoffice,Corn with Storage,2010/2011,$/bushel
+Receipts,Low,48.0,Ohio,Farmoffice,Soybean,2010/2011,bu/acre
+Soybean Price,Low,412.79999999999995,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Seed Cost,Low,57.6,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+P205   (MAP),Low,16.615384615384617,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+K20   (Potash),Low,23.799999999999997,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Chemicals,Low,30.0,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Labor and Management,Low,48.67156,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Return to Land,Low,155.1346224272528,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+"Return to Land, Labor, Management",Low,203.8061824272528,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Return Above Total Costs,Low,25.134622427252793,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Price,Low,8.6,Ohio,Farmoffice,Soybean,2010/2011,$/bushel
+Receipts,High,60.0,Ohio,Farmoffice,Soybean,2010/2011,bu/acre
+Soybean Price,High,516.0,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Seed Cost,High,57.6,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+P205   (MAP),High,20.76923076923077,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+K20   (Potash),High,29.75,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Chemicals,High,30.0,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Labor and Management,High,54.053920000000005,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Return to Land,High,246.8340201195606,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+"Return to Land, Labor, Management",High,346.69271896571445,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Return Above Total Costs,High,81.83402011956059,Ohio,Farmoffice,Soybean,2010/2011,$/acre
+Price,High,8.6,Ohio,Farmoffice,Soybean,2010/2011,$/bushel
+Receipts,Low,48.0,Ohio,Farmoffice,Soybean with Storage,2010/2011,bu/acre
+Soybean Price,Low,412.79999999999995,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Seed Cost,Low,57.6,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+P205   (MAP),Low,16.615384615384617,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+K20   (Potash),Low,23.799999999999997,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Chemicals,Low,30.0,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Labor and Management,Low,48.67156,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Return to Land,Low,147.7546224272528,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+"Return to Land, Labor, Management",Low,196.4261824272528,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Return Above Total Costs,Low,17.754622427252798,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Price,Low,8.6,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/bushel
+Receipts,High,60.0,Ohio,Farmoffice,Soybean with Storage,2010/2011,bu/acre
+Soybean Price,High,516.0,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Seed Cost,High,57.6,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+P205   (MAP),High,20.76923076923077,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+K20   (Potash),High,29.75,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Chemicals,High,30.0,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Labor and Management,High,54.053920000000005,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Return to Land,High,237.60902011956057,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+"Return to Land, Labor, Management",High,336.5452189657144,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Return Above Total Costs,High,72.60902011956057,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/acre
+Price,High,8.6,Ohio,Farmoffice,Soybean with Storage,2010/2011,$/bushel
+Receipts,Low,67.0,Ohio,Farmoffice,Wheat,2010/2011,bu/acre
+Wheat Price,Low,284.75,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Seed Cost,Low,32.2,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+N (UAN),Low,18.263942307692307,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+P205   (MAP),Low,18.263942307692307,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+K20   (Potash),Low,15.863125,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Chemicals,Low,13.0,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Return to Land,Low,52.42421813253782,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+"Return to Land, Labor, Management",Low,93.66171813253781,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Return Above Total Costs,Low,-77.57578186746218,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Price,Low,4.25,Ohio,Farmoffice,Wheat,2010/2011,$/bushel
+Receipts,High,82.0,Ohio,Farmoffice,Wheat,2010/2011,bu/acre
+Wheat Price,High,348.5,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Seed Cost,High,32.2,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+N (UAN),High,45.42857142857143,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+P205   (MAP),High,22.352884615384617,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+K20   (Potash),High,17.828750000000003,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Chemicals,High,13.0,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Return to Land,High,98.52896813253778,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+"Return to Land, Labor, Management",High,142.9539681325378,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Return Above Total Costs,High,-77.51058186746224,Ohio,Farmoffice,Wheat,2010/2011,$/acre
+Price,High,4.25,Ohio,Farmoffice,Wheat,2010/2011,$/bushel
+Receipts,Low,150.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,bu/acre
+Corn Price,Low,600.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Seed Cost,Low,80.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Nitrogen (NH3),Low,87.1219512195122,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+P205   (MAP),Low,42.69230769230769,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+K20   (Potash),Low,29.025,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Chemicals,Low,42.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Return to Land,Low,84.2095785814472,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+"Return to Land, Labor, Management",Low,158.4411385814472,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Return Above Total Costs,Low,-45.790421418552796,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Price,Low,4.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/bushel
+Receipts,High,184.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,bu/acre
+Corn Price,High,736.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Seed Cost,High,85.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Nitrogen (NH3),High,97.54878048780489,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+P205   (MAP),High,52.36923076923077,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+K20   (Potash),High,35.604000000000006,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Chemicals,High,42.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Return to Land,High,171.34357173810758,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+"Return to Land, Labor, Management",High,301.7547786611845,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Return Above Total Costs,High,6.343571738107585,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/acre
+Price,High,4.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",NH3,$/bushel
+Receipts,Low,150.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,bu/acre
+Corn Price,Low,600.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Seed Cost,Low,80.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Nitrogen (NH3),Low,111.28571428571429,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+P205   (MAP),Low,42.69230769230769,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+K20   (Potash),Low,29.025,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Chemicals,Low,42.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Return to Land,Low,62.21076120265195,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+"Return to Land, Labor, Management",Low,136.44232120265195,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Return Above Total Costs,Low,-67.78923879734805,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Price,Low,4.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/bushel
+Receipts,High,184.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,bu/acre
+Corn Price,High,736.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Seed Cost,High,85.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Nitrogen (NH3),High,124.85714285714286,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+P205   (MAP),High,52.36923076923077,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+K20   (Potash),High,35.604000000000006,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Chemicals,High,42.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Return to Land,High,146.03506359276173,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+"Return to Land, Labor, Management",High,276.44627051583865,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Return Above Total Costs,High,-18.96493640723827,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/acre
+Price,High,4.0,Ohio,Farmoffice,"Corn 2009, Conservation Tillage; N Source -",UAN,$/bushel
+Receipts,Low,150.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,bu/acre
+Corn Price,Low,600.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Seed Cost,Low,80.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Nitrogen (NH3),Low,111.28571428571429,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+P205   (MAP),Low,42.69230769230769,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+K20   (Potash),Low,29.025,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Chemicals,Low,54.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Return to Land,Low,66.84227889041131,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+"Return to Land, Labor, Management",Low,138.37383889041132,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Return Above Total Costs,Low,-63.15772110958869,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Price,Low,4.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/bushel
+Receipts,High,184.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,bu/acre
+Corn Price,High,736.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Seed Cost,High,85.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Nitrogen (NH3),High,124.85714285714286,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+P205   (MAP),High,52.36923076923077,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+K20   (Potash),High,35.604000000000006,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Chemicals,High,54.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Return to Land,High,150.6665812805211,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+"Return to Land, Labor, Management",High,278.377788203598,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Return Above Total Costs,High,-14.333418719478914,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/acre
+Price,High,4.0,Ohio,Farmoffice,"Corn 2009, No-Till; N Source -",UAN,$/bushel
+Receipts,Low,48.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),bu/acre
+Soybean Price,Low,432.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Seed Cost,Low,52.199999999999996,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+P205   (MAP),Low,29.538461538461544,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+K20   (Potash),Low,48.15999999999999,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Chemicals,Low,30.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Return to Land,Low,123.11858362864695,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+"Return to Land, Labor, Management",Low,172.75014362864695,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Return Above Total Costs,Low,-6.881416371353055,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Price,Low,9.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/bushel
+Receipts,High,60.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),bu/acre
+Soybean Price,High,540.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Seed Cost,High,52.199999999999996,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+P205   (MAP),High,36.92307692307693,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+K20   (Potash),High,60.2,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Chemicals,High,30.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Return to Land,High,206.43413516710837,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+"Return to Land, Labor, Management",High,288.0878756799289,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Return Above Total Costs,High,41.434135167108366,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/acre
+Price,High,9.0,Ohio,Farmoffice,"Soybean 2009, No-Tillage (Roundup",Ready),$/bushel
+Receipts,Low,67.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,bu/acre
+Wheat Price,Low,268.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Seed Cost,Low,31.5,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+N (UAN),Low,32.46923076923077,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+P205   (MAP),Low,32.46923076923077,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+K20   (Potash),Low,32.0995,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Chemicals,Low,13.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Return to Land,Low,-27.459751308699197,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+"Return to Land, Labor, Management",Low,12.940248691300804,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Return Above Total Costs,Low,-157.4597513086992,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Price,Low,4.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/bushel
+Receipts,High,82.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,bu/acre
+Wheat Price,High,328.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Seed Cost,High,31.5,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+N (UAN),High,68.57142857142857,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+P205   (MAP),High,39.73846153846154,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+K20   (Potash),High,36.077000000000005,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Chemicals,High,13.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Return to Land,High,0.26771407591627394,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+"Return to Land, Labor, Management",High,43.66771407591628,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Return Above Total Costs,High,-186.49020669331458,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/acre
+Price,High,4.0,Ohio,Farmoffice,"Wheat 2009, Conservation Tillage - Grain and Straw",Harvested,$/bushel
+Receipts,Low,67.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,bu/acre
+Wheat Price,Low,268.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Seed Cost,Low,31.5,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+N (UAN),Low,32.46923076923077,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+P205   (MAP),Low,32.46923076923077,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+K20   (Potash),Low,32.0995,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Chemicals,Low,23.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Land Rent,Low,130.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Return to Land,Low,-21.467160399059765,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+"Return to Land, Labor, Management",Low,16.23283960094024,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Return Above Total Costs,Low,-151.46716039905976,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Price,Low,4.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/bushel
+Receipts,High,82.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,bu/acre
+Wheat Price,High,328.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Seed Cost,High,31.5,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+N (UAN),High,68.57142857142857,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+P205   (MAP),High,39.73846153846154,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+K20   (Potash),High,36.077000000000005,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Chemicals,High,23.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Land Rent,High,165.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Return to Land,High,6.260304985555649,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+"Return to Land, Labor, Management",High,46.96030498555565,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Return Above Total Costs,High,-180.4976157836751,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/acre
+Price,High,4.0,Ohio,Farmoffice,"Wheat 2009, No-Till - Grain and Straw",Harvested,$/bushel

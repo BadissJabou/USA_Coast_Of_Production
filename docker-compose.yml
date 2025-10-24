@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  agricultural-data-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./config.yaml:/app/config.yaml
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    command: ["python", "main.py", "--api"]
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  agricultural-data-scraper:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./config.yaml:/app/config.yaml
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    command: ["python", "main.py"]
+    restart: "no"
+    depends_on:
+      - agricultural-data-api
+
+  # Optional: Add a database service for production
+  # postgres:
+  #   image: postgres:13
+  #   environment:
+  #     POSTGRES_DB: agricultural_data
+  #     POSTGRES_USER: ag_user
+  #     POSTGRES_PASSWORD: ag_password
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   ports:
+  #     - "5432:5432"
+
+# volumes:
+#   postgres_data:
