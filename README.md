@@ -92,10 +92,7 @@ python main.py --api
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-- **GitHub**: [https://github.com/BadissJabou/-USA_Coast_Of_Production](https://github.com/BadissJabou/-USA_Coast_Of_Production)
-- **Issues**: [GitHub Issues](https://github.com/BadissJabou/-USA_Coast_Of_Production/issues)
 
 ---
 
